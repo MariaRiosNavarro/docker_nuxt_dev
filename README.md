@@ -99,6 +99,8 @@ docker run -d -p new_port_you_want:port_in_dockerfile -v ABSOLUTE_PATH_YOUR_WORK
 
 ```
 
+EXAMPLE of 3.2:
+
 ![DockerNuxt](/readme_assets/step3/three3.png)
 
 4. NOW you can open your port and see this (mine was 3030)
