@@ -1,6 +1,6 @@
 # NUXT-DEV in docker
 
-TODO: All created images here are really big, so in another version I will create the images with node18 in alpine, to see if it shrinks like that.
+All created images here are really big, so in another Repo I create the images with node18 in alpine. I have done the same process as described here but using in the first terminal `node18 in alpine docker run -it -rm node:18 sh` and above all in the dockerfile that we do later in the ide using also `FROM node:18-alpine` and this way our images are smaller. [The repo where I do it is here](https://github.com/MariaRiosNavarro/docker-nuxt-dev-small)
 
 ## HOW I CREATED THE NUXT_DEV IMAGE & CREATED ITS CONTAINER
 
