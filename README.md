@@ -118,3 +118,7 @@ And you should see it immediately.
 
 
 WORKS!!
+
+NOTE: You can start (or stop) your container quickly in your docker desktop (actions):
+
+![DockerNuxt](/readme_assets/step3/three7.png)
