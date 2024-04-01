@@ -100,3 +100,19 @@ docker run -d -p new_port_you_want:port_in_dockerfile -v ABSOLUTE_PATH_YOUR_WORK
 ```
 
 ![DockerNuxt](/readme_assets/step3/three3.png)
+
+4. NOW you can open your port and see this (mine was 3030)
+
+![DockerNuxt](/readme_assets/step3/three4.png)
+
+Change something in the `app.vue` to test
+
+![DockerNuxt](/readme_assets/step3/three5.png)
+
+And you should see it immediately.
+
+![DockerNuxt](/readme_assets/step3/three6.png)
+
+
+
+WORKS!!
