@@ -2,7 +2,7 @@
 
 TODO: All created images here are really big, so in another version I will create the images with node18 in alpine, to see if it shrinks like that.
 
-## HOW I DID THE NUXT_DEV_IMAGE & create the CONTAINER
+## HOW I CREATED THE NUXT_DEV IMAGE & CREATED ITS CONTAINER
 
 ### Step 1
 
